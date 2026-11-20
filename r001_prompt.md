@@ -1,0 +1,1 @@
+Dada la siguiente cadena de caracteres: \[CADENA\], determina cuántas veces aparece el patrón \[PATRÓN\] dentro de ella. Se deben contabilizar todas las apariciones, incluyendo aquellas que se solapan. Devuelve únicamente el número de apariciones.
